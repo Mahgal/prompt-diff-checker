@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Reports generated locally (the demo report.md is kept as an example)
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
